@@ -1,2 +1,2 @@
-# DNS---Notes
-DNS - Notes
+# DNS (Domain Name System)
+
